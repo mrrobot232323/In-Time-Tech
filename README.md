@@ -1,10 +1,13 @@
 # 🚀 In Time Tec – Aptitude & Technical Preparation Guide
 
-([https://via.placeholder.com/800x200?text=In+Time+Tec+Preparation](https://www.scribd.com/document/890657946/IN-TIME-TEC)) 
+
 
 This repository contains **previous year questions**, **topic-wise breakdowns**, and **essential study materials** for the **In Time Tec recruitment process**.  
 Covers **Aptitude (Quantitative, Logical, Verbal)** and **Technical Interviews** with curated resources.
 
+previous year question paper
+
+([https://via.placeholder.com/800x200?text=In+Time+Tec+Preparation](https://www.scribd.com/document/890657946/IN-TIME-TEC)) 
 ---
 
 ## 📊 Aptitude Preparation
