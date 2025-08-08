@@ -29,23 +29,27 @@ previous year  = ([https://via.placeholder.com/800x200?text=In+Time+Tec+Preparat
 
 ### 2. Logical Reasoning
 
-    title Question Distribution
-    "Puzzles" : 35
-    "Series Completion" : 25
-    "Relationships" : 20
-    "Arrangements" : 15
-    "Analogies" : 5
+
+- Puzzles
+
+ - Relationships / Blood Relations
+
+ - Seating Arrangements
+
+- Series & Pattern Recognition
+
+---
+Classification & Analogies
 ---
 ### 3. Verbal Ability
-Preparation Checklist
 
-50+ Synonyms/Antonyms flashcards
+- Synonyms / Antonyms
 
-Error spotting rules (Subject-Verb agreement, tenses)
+ - Sentence Correction / Error Spotting
 
-10+ Reading Comprehension passages
+- Reading Comprehension
 
-Fill-in-the-blanks (Prepositions, articles)
+ - Para Jumbles / Fill-in-the-Blank
 
 
 
