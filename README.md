@@ -1,6 +1,6 @@
 # 🚀 In Time Tec – Aptitude & Technical Preparation Guide
 
-(https://via.placeholder.com/800x200?text=In+Time+Tec+Preparation) 
+![Banner](https://via.placeholder.com/800x200?text=In+Time+Tec+Preparation) *(Consider adding a relevant banner image)*
 
 This repository contains **previous year questions**, **topic-wise breakdowns**, and **essential study materials** for the **In Time Tec recruitment process**.  
 Covers **Aptitude (Quantitative, Logical, Verbal)** and **Technical Interviews** with curated resources.
@@ -34,8 +34,6 @@ pie
     "Relationships" : 20
     "Arrangements" : 15
     "Analogies" : 5
-
-
 ---
 ### 3. Verbal Ability
 Preparation Checklist
