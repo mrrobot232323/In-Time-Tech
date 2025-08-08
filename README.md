@@ -50,22 +50,7 @@ Fill-in-the-blanks (Prepositions, articles)
 1. Programming Fundamentals
 Hot Topics c/ cpp/ java basic questiond
 
-c
-// Code Prediction Question Example:
-#include<stdio.h>
-int main() {
-    int x = 5;
-    printf("%d %d %d", x, x++, ++x); 
-    // Output? (Ans: Compiler dependent)
-}
-Must-Know:
 
-Time complexity (O-notation)
-
-Recursion stack tracing
-
-Pointer arithmetic
----
     
 ### 2. Data Structures
 Quick Reference Table
