@@ -89,10 +89,7 @@ Classification & Analogies
 
 -Polymorphism - Many forms (Method overloading/overriding)
 
-Interview Question:
-"Can we override static methods in Java?"
-(Ans: No - static methods belong to class, not instance)
- ---
+
     
 ### 4. DBMS Essentials
 -Primary Key vs. Unique Key
