@@ -25,9 +25,7 @@ Covers **Aptitude (Quantitative, Logical, Verbal)** and **Technical Interviews**
 ---
 
 ### 2. Logical Reasoning
-**Frequently Tested Areas**  
-```mermaid
-pie
+
     title Question Distribution
     "Puzzles" : 35
     "Series Completion" : 25
@@ -48,7 +46,7 @@ Fill-in-the-blanks (Prepositions, articles)
 
 
 
-### progaming 
+### Techincal questions
 1. Programming Fundamentals
 Hot Topics c/ cpp/ java basic questiond
 
