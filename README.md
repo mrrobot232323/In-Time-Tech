@@ -54,31 +54,40 @@ Classification & Analogies
 
 
 ### Techincal questions
-1. Programming Fundamentals
-Hot Topics c/ cpp/ java basic questiond
 
+### 1. Programming Fundamentals
+(Very common — often language-neutral but C/C++/Java syntax is used)
 
-    
+-Output prediction questions
+
+- Identify errors in code
+
+- Time & space complexity basics
+
+- Recursion (trace outputs)
+  
+    ---
 ### 2. Data Structures
-Quick Reference Table
 
-Structure	Insertion Time	Search Time	Use Case
-Array	O(n)	O(1)	Fixed-size data
-Linked List	O(1)	O(n)	Dynamic memory
-Hash Table	O(1)	O(1)	Key-value pairs
-Binary Tree	O(log n)	O(log n)	Hierarchical data
+-Arrays: indexing, searching, sorting
+
+-Strings: reversal, palindrome check logic
+
+-Linked Lists: identifying correct traversal code
+
+-Stacks & Queues: operations and complexity
 
     ---
 ### 3. OOP Concepts
 4 Pillars Explained
 
-Abstraction - Hide implementation (Abstract classes)
+-Abstraction - Hide implementation (Abstract classes)
 
-Encapsulation - Data bundling (Private variables)
+-Encapsulation - Data bundling (Private variables)
 
-Inheritance - IS-A relationship (Parent→Child class)
+-Inheritance - IS-A relationship (Parent→Child class)
 
-Polymorphism - Many forms (Method overloading/overriding)
+-Polymorphism - Many forms (Method overloading/overriding)
 
 Interview Question:
 "Can we override static methods in Java?"
@@ -86,26 +95,29 @@ Interview Question:
  ---
     
 ### 4. DBMS Essentials
-SQL JOIN Visual Guide
-https://via.placeholder.com/400x200?text=SQL+Joins+Diagram (Add actual JOIN diagram)
+-Primary Key vs. Unique Key
 
-Key Differences
+-Types of joins (INNER, LEFT, RIGHT, FULL)
 
-Command	Rollback Possible?	Resets Identity?
-DELETE	Yes	No
-TRUNCATE	No	Yes
-DROP	No	-
+-Normalization basics (1NF, 2NF, 3NF)
 
-    ---
+-SQL query output prediction
     
-### 5. OS & Networking
-Quick Facts
+### 5. OS
+-Process vs. Thread
 
-🖥️ Process vs Thread: Process has separate memory, threads share memory
+-Scheduling algorithms (FCFS, SJF, Round Robin)
 
-🌐 TCP 3-Way Handshake: SYN → SYN-ACK → ACK
+-Deadlock conditions
 
-⏳ Deadlock Conditions: Mutual Exclusion + Hold & Wait + No Preemption + Circular Wait
+-Paging and segmentation basic
+
+### 6 - CN
+-TCP vs. UDP
+
+-OSI Model layers and their functions
+
+-IP addressing basics
 
 
 
