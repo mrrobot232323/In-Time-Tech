@@ -1,7 +1,5 @@
 # 🚀 In Time Tec 
-– Aptitude & Technical Preparation Guide
-
-
+– Aptitude & Technical Preparation Guid
 This repository contains **previous year questions**, **topic-wise breakdowns**, and **essential study materials** for the **In Time Tec recruitment process**.  
 Covers **Aptitude (Quantitative, Logical, Verbal)** and **Technical Interviews** with curated resources.
 
